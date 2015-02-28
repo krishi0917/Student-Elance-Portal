@@ -1,6 +1,6 @@
 applications:
 - disk_quota: 1024M
-  host: Stulance
+  host: nvstulance
   name: Stulance
   path: Stulance.war
   domain: mybluemix.net
