@@ -1,24 +1,8 @@
-Java Web Application
+Student Elance web app (JSP | Servlets| MYSQL | IBM Bluemix (Cloud)  | JQuery)
 
-This sample application demonstrates how to use SQLDB service to connect DB2 on Bluemix.
+This is more than a freelancing web app – students built a personality profile matching module using Keirsey Temperament Sorter (KTS) technique to suggest a job to job seeker. Keirsey Temperament theory suggests that there are four temperament groups that describe a person’s behavior. These four temperaments are Artisans, Guardians, Rationales and Idealists. We believed that any student may not just be good at performing a coding job but may gain interesting life experience in doing a writing or translation job if that is also a hidden talent they have.
 
-Files
+The project is selected by our Professor to be published in IBM developer portal.
+url: https://lnkd.in/bNbpH4x
 
-The Java Web starter application contains the following contents:
-
-*   WebContent/
-
-    This directory contains the client side code (HTML/CSS/JavaScript) of your application as well as compiled server side java classes and necessary JAR libraries. The content inside this directory is all you need to generate the final WAR file.
-    
-*   src/
-
-    This directory contains the server side code (JAVA) of your application.
-    
-*   build.xml
-
-    This file allows you to easily build your application using Ant.
-    
-*   instructions.md
-
-    This file describes the Next Steps for getting started with this template.
-
+The application is using bluemix PAAS and is developed using Advances JAVA and MYSQL.
